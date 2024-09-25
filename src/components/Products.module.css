@@ -1,0 +1,13 @@
+.productsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+}
+
+.innerContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
